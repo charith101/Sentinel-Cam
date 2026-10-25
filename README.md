@@ -6,9 +6,8 @@
 
 <p align="center">
   <b>Your cameras, native on your Mac.</b><br>
-  A menu bar app for watching RTSP cameras — main stream by default, an
-  all-cameras grid, snapshots, and hardware decode<br>
-  in a SwiftUI + AppKit app that feels like it shipped with macOS.
+  A menu bar RTSP viewer with a live popover, all-cameras grid, snapshots,
+  and hardware decode — built to feel like macOS.
 </p>
 
 <p align="center">
