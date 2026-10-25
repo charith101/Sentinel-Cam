@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# SwiftPM
+.build/
+.swiftpm/
+dist/
+
+# Xcode / editor noise
+*.xcuserstate
+xcuserdata/
+.idea/
+.vscode/
+
+# Logs and local test output
+*.log

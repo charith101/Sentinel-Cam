@@ -1,0 +1,15 @@
+{
+  "originHash" : "bf37353e99d3b365e3e748595bebd487a75bf803e5a03a91e8f42107c739c4ee",
+  "pins" : [
+    {
+      "identity" : "ipcamkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/steelbrain/IPCamKit.git",
+      "state" : {
+        "revision" : "1be3b4f2847c6d0b8e389009a1e159aaaa2b47ff",
+        "version" : "0.3.2"
+      }
+    }
+  ],
+  "version" : 3
+}
